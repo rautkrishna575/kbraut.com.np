@@ -26,4 +26,4 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rautkrishna575/kbraut.com.np.git
+   https://github.com/rautkrishna575/kbraut.com.np.git
